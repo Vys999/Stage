@@ -1,6 +1,6 @@
 Optimizing Algorithms for Neural Decoding
 
-This repository contains the code used for my Bachelor's internship at the Donders Centre for Neuroscience.
+This repository contains the code used for my Bachelor internship at the Donders Centre for Neuroscience.
 
 Repository structure:
 Raw data:
